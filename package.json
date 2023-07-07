@@ -96,7 +96,7 @@
     "sinon": "^7.1.1",
     "slugg": "^1.2.1",
     "st": "^1.2.0",
-    "stylelint": "^9.7.1",
+    "stylelint": "^15.10.1",
     "stylelint-config-standard": "^18.2.0",
     "tap": "^12.0.1"
   },
